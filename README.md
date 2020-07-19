@@ -1,6 +1,8 @@
 # Product Name
 > Short blurb about what your product does.
 
+<img src="https://img.shields.io/badge/style-for--the--badge-2C8EBB?logo=yarn&style=for-the-badge">
+
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
